@@ -9,6 +9,7 @@ I'm not a developer. Everything here was built with Claude Code.
 ## What I'm building
 
 - **[improve-system](https://github.com/umerdarazkha-debug/improve-system)**: a free Claude Code skill that reads your past sessions, finds what keeps going wrong and writes the fixes. No third-party service, no extra account.
+- **[youtube-decoder](https://github.com/umerdarazkha-debug/youtube-decoder)**: a free Claude skill that reads any YouTube video's captions and shows you the hook, the structure and the key timestamps, then rebuilds that structure for your niche.
 - **Videos made with code**: my reels and long-form videos are built with Claude Code, Remotion and HyperFrames.
 - **SEO and AI search work**: audits, trackers and research on how people find tools through Google and AI answers.
 
