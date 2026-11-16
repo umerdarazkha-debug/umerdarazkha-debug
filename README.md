@@ -4,7 +4,6 @@
 
 I'm a marketer in Islamabad with a background in SEO. I use Claude, ChatGPT, Gemini and AI agents for real marketing work every day, then I share what works: the prompts, the workflows, the tools and the honest results, including the parts that fail.
 
-I'm not a developer. Everything here was built with Claude Code.
 
 ## What I'm building
 
