@@ -11,6 +11,7 @@ I'm a marketer in Islamabad with a background in SEO. I use Claude, ChatGPT, Gem
 - **[youtube-decoder](https://github.com/umerdarazkha-debug/youtube-decoder)**: a free Claude skill that reads any YouTube video's captions and shows you the hook, the structure and the key timestamps, then rebuilds that structure for your niche.
 - **[handwriting-to-font](https://github.com/umerdarazkha-debug/handwriting-to-font)**: a free tool that turns a photo of your handwriting into a font you can install, and shows you your 5 worst letters first.
 - **[remotion-reel-effects](https://github.com/umerdarazkha-debug/remotion-reel-effects)**: 17 reel effects for Remotion, written in code: orbit, phone mockup, chart grow, paper cut, glass type and more.
+- **[remotion-cartoon-presenter](https://github.com/umerdarazkha-debug/remotion-cartoon-presenter)**: a cartoon presenter for Remotion, drawn in code. He lip-syncs to your script, waves, points and reacts, with no image files.
 - **[free-prompt-packs](https://github.com/umerdarazkha-debug/free-prompt-packs)**: free prompts and checklists from my reels: a profile audit, a week of posts from one video, a website from your reviews and more.
 - **Videos made with code**: my reels and long-form videos are built with Claude Code, Remotion and HyperFrames.
 - **SEO and AI search work**: audits, trackers and research on how people find tools through Google and AI answers.
