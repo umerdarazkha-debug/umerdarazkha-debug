@@ -7,6 +7,7 @@ I'm a marketer in Islamabad with a background in SEO. I use Claude, ChatGPT, Gem
 
 ## What I'm building
 
+- **[ai-search-visibility-checker](https://github.com/umerdarazkha-debug/ai-search-visibility-checker)**: a free tool that asks ChatGPT, Gemini and Google AI Overviews the same buyer questions 5 times each, then shows how often they mention, cite and recommend your brand, what they get wrong about you, and which cited pages leave you out.
 - **[improve-system](https://github.com/umerdarazkha-debug/improve-system)**: a free Claude Code skill that reads your past sessions, finds what keeps going wrong and writes the fixes. No third-party service, no extra account.
 - **[youtube-decoder](https://github.com/umerdarazkha-debug/youtube-decoder)**: a free Claude skill that reads any YouTube video's captions and shows you the hook, the structure and the key timestamps, then rebuilds that structure for your niche.
 - **[handwriting-to-font](https://github.com/umerdarazkha-debug/handwriting-to-font)**: a free tool that turns a photo of your handwriting into a font you can install, and shows you your 5 worst letters first.
