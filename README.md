@@ -7,6 +7,7 @@ I'm a marketer in Islamabad with a background in SEO. I use Claude, ChatGPT, Gem
 
 ## What I'm building
 
+- **[chatterbox-voice-clone-cpu](https://github.com/umerdarazkha-debug/chatterbox-voice-clone-cpu)**: clone a voice from a 30-second recording and have it read any script, on an Intel Mac with no GPU. One setup script fixes the 7 errors that stop Chatterbox installing.
 - **[seo-audit-dashboard](https://github.com/umerdarazkha-debug/seo-audit-dashboard)**: a free tool that turns a Screaming Frog crawl into an SEO audit developers can fix: one offline HTML dashboard plus an Excel workbook, with every broken link traced to its page, anchor and fix.
 - **[ai-search-visibility-checker](https://github.com/umerdarazkha-debug/ai-search-visibility-checker)**: a free tool that asks ChatGPT, Gemini and Google AI Overviews the same buyer questions 5 times each, then shows how often they mention, cite and recommend your brand, what they get wrong about you, and which cited pages leave you out.
 - **[improve-system](https://github.com/umerdarazkha-debug/improve-system)**: a free Claude Code skill that reads your past sessions, finds what keeps going wrong and writes the fixes. No third-party service, no extra account.
