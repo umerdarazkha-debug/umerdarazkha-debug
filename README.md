@@ -27,11 +27,16 @@ I'm a marketer in Islamabad with a background in SEO. I use Claude, ChatGPT, Gem
 
 ## Read
 
+- [Trendjacking Lessons From GTA 6 (2026): 170 Unofficial Brand Stunts, What Worked, and a 5 Question Test Before You Post](https://medium.com/@umer.does.ai/trendjacking-lessons-from-gta-6-2026-170-unofficial-brand-stunts-what-worked-and-a-5-question-733e682e5902)
+- [A Channel With 1,220 Subscribers Got 1.5 Million Views From One GTA 6 Short. What Marketers Should Copy](https://x.com/umerdarazkha/status/2124768635243975019)
+- [GTA 6 Made Over $1.5 Billion Before Launch and Said No to Every Brand Deal. Here Is the Playbook You Can Copy](https://x.com/umerdarazkha/status/2123287592968065480)
+- [ChatGPT Wallet Explained (2026): How AI Agents Pay, and How to Get Your Store Ready](https://medium.com/@umer.does.ai/chatgpt-wallet-explained-2026-how-ai-agents-pay-and-how-to-get-your-store-ready-9bf55c653623)
 - [Google Swapped the AI Behind Search During a Core Update. Don't Trust Your November Numbers Yet](https://www.linkedin.com/pulse/google-swapped-ai-behind-search-during-core-update-dont-daraz-khan-57ief/)
 - [How Software Buyers Use AI to Choose Tools (2026): What 200 Buyers Did and How to Make the Shortlist](https://medium.com/@umer.does.ai/how-software-buyers-use-ai-to-choose-tools-2026-what-200-buyers-did-and-how-to-make-the-310a1ff46e20)
 - [Meta Can Put a Discount on Your Ad That You Never Approved. Check This Setting Before Black Friday](https://x.com/umerdarazkha/status/2121211050981003438)
 - [10 Black Friday software deals worth plugging into your AI agent stack in 2026](https://www.linkedin.com/pulse/10-black-friday-software-deals-worth-plugging-your-ai-umer-daraz-khan-tu0gf)
 - [How to Turn Your Changelog Into Social Posts With Cursor and ContentStudio](https://www.linkedin.com/pulse/how-turn-your-changelog-social-posts-cursor-umer-daraz-khan-rwqpf)
+- More on [Medium @umer.does.ai](https://medium.com/@umer.does.ai)
 
 ## Find me
 
