@@ -7,6 +7,21 @@ I'm a marketer in Islamabad with a background in SEO. I use Claude, ChatGPT, Gem
 
 ## What I'm building
 
+**Claude Code skills for problems nobody has a tool for yet** (free, MIT, one repo each):
+
+- AI agent tools
+  - **[token-autopsy](https://github.com/umerdarazkha-debug/token-autopsy)**: see where your tokens went, per session, model, MCP server and skill.
+  - **[skill-curator](https://github.com/umerdarazkha-debug/skill-curator)**: find the skills you never use and the ones that overlap.
+  - **[leak-check](https://github.com/umerdarazkha-debug/leak-check)**: find API keys and private data Claude can see or already saved in old chats.
+  - **[run-watchdog](https://github.com/umerdarazkha-debug/run-watchdog)**: catch scheduled jobs that say "success" but did nothing.
+  - **[safe-install](https://github.com/umerdarazkha-debug/safe-install)**: check a skill's install scripts for risky code before you run them.
+  - **[retention-doctor](https://github.com/umerdarazkha-debug/retention-doctor)**: find the scene where viewers left your short video.
+- SEO and AI search
+  - **[traffic-drop-detective](https://github.com/umerdarazkha-debug/traffic-drop-detective)**: was it AI Overviews, a Google update, seasonality or your own site change?
+  - **[hidden-ai-traffic](https://github.com/umerdarazkha-debug/hidden-ai-traffic)**: estimate the ChatGPT visits hiding in GA4 Direct traffic.
+  - **[mentioned-not-cited](https://github.com/umerdarazkha-debug/mentioned-not-cited)**: prompts where AI names your brand but links to someone else.
+  - **[stale-fact-watch](https://github.com/umerdarazkha-debug/stale-fact-watch)**: weekly check that the prices and plans on your pages are still true.
+
 - **[keyword-cannibalization-finder](https://github.com/umerdarazkha-debug/keyword-cannibalization-finder)**: a free tool that reads a query and page export of your Google Search Console data and shows which of your pages compete for the same queries, which one is stronger and what to do next. One offline HTML report plus CSV files.
 - **[chatterbox-voice-clone-cpu](https://github.com/umerdarazkha-debug/chatterbox-voice-clone-cpu)**: clone a voice from a 30-second recording and have it read any script, on an Intel Mac with no GPU. One setup script fixes the 7 errors that stop Chatterbox installing.
 - **[seo-audit-dashboard](https://github.com/umerdarazkha-debug/seo-audit-dashboard)**: a free tool that turns a Screaming Frog crawl into an SEO audit developers can fix: one offline HTML dashboard plus an Excel workbook, with every broken link traced to its page, anchor and fix.
