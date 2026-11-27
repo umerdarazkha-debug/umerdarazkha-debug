@@ -15,12 +15,25 @@ I'm a marketer in Islamabad with a background in SEO. I use Claude, ChatGPT, Gem
   - **[leak-check](https://github.com/umerdarazkha-debug/leak-check)**: find API keys and private data Claude can see or already saved in old chats.
   - **[run-watchdog](https://github.com/umerdarazkha-debug/run-watchdog)**: catch scheduled jobs that say "success" but did nothing.
   - **[safe-install](https://github.com/umerdarazkha-debug/safe-install)**: check a skill's install scripts for risky code before you run them.
-  - **[retention-doctor](https://github.com/umerdarazkha-debug/retention-doctor)**: find the scene where viewers left your short video.
 - SEO and AI search
   - **[traffic-drop-detective](https://github.com/umerdarazkha-debug/traffic-drop-detective)**: was it AI Overviews, a Google update, seasonality or your own site change?
   - **[hidden-ai-traffic](https://github.com/umerdarazkha-debug/hidden-ai-traffic)**: estimate the ChatGPT visits hiding in GA4 Direct traffic.
   - **[mentioned-not-cited](https://github.com/umerdarazkha-debug/mentioned-not-cited)**: prompts where AI names your brand but links to someone else.
   - **[stale-fact-watch](https://github.com/umerdarazkha-debug/stale-fact-watch)**: weekly check that the prices and plans on your pages are still true.
+  - **[template-page-pruner](https://github.com/umerdarazkha-debug/template-page-pruner)**: decide which programmatic and comparison pages to keep, enrich, merge or noindex.
+- Content creators
+  - **[retention-doctor](https://github.com/umerdarazkha-debug/retention-doctor)**: find the scene where viewers left your short video.
+  - **[pre-post-check](https://github.com/umerdarazkha-debug/pre-post-check)**: check a short video, cover and captions against platform limits before you post.
+  - **[weekly-metrics-sheet](https://github.com/umerdarazkha-debug/weekly-metrics-sheet)**: one weekly sheet from Instagram, TikTok and YouTube Shorts exports, same video matched across platforms.
+  - **[comment-miner](https://github.com/umerdarazkha-debug/comment-miner)**: turn repeated questions in your comments into ranked video ideas with hook lines.
+  - **[broll-finder](https://github.com/umerdarazkha-debug/broll-finder)**: search your own footage by what is in the shot and cut the clip. Nothing is uploaded.
+- Memory
+  - **[recall-handoff](https://github.com/umerdarazkha-debug/recall-handoff)**: search your past Claude and ChatGPT chats, write session handoffs, keep CLAUDE.md and AGENTS.md in sync.
+- Pakistan first (Urdu and English)
+  - **[roman-urdu-ledger](https://github.com/umerdarazkha-debug/roman-urdu-ledger)**: turn a shop's WhatsApp chat, voice notes and payment screenshots into a credit ledger.
+  - **[fake-receipt-checker](https://github.com/umerdarazkha-debug/fake-receipt-checker)**: check JazzCash, Easypaisa and bank transfer screenshots for signs of forgery.
+  - **[bill-checker](https://github.com/umerdarazkha-debug/bill-checker)**: recheck an electricity bill, including net-metering credit, and draft the complaint.
+  - **[fbr-helper](https://github.com/umerdarazkha-debug/fbr-helper)**: explain FBR tax notices in plain words with days left and a draft reply. Not tax advice.
 
 - **[keyword-cannibalization-finder](https://github.com/umerdarazkha-debug/keyword-cannibalization-finder)**: a free tool that reads a query and page export of your Google Search Console data and shows which of your pages compete for the same queries, which one is stronger and what to do next. One offline HTML report plus CSV files.
 - **[chatterbox-voice-clone-cpu](https://github.com/umerdarazkha-debug/chatterbox-voice-clone-cpu)**: clone a voice from a 30-second recording and have it read any script, on an Intel Mac with no GPU. One setup script fixes the 7 errors that stop Chatterbox installing.
